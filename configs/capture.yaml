@@ -22,13 +22,17 @@ domains:
 
 # (required) The paths to capture. All paths should exist for both of the domains specified above.
 paths:
-  homepage:         /
-  top_level_cat:    /browse/government
-  second_level_cat: /browse/government/council
-  news:             /news
-  news_item:        /news/04-12-2016/city-to-collect-household-hazardous-waste
-  search:           /search/node?keys=facilities
-  service_guide:    /moondance-at-midnight-pass-amphitheater
+  homepage:             /
+  top_level_cat:        /browse/government
+  department_directory: /departments
+  department_page :     /departments/police
+  second_level_cat:     /browse/government/council
+  news:                 /news
+  news_item:            /news/04-12-2016/city-to-collect-household-hazardous-waste
+  search:               /search/node?keys=facilities
+  service_guide:        /moondance-at-midnight-pass-amphitheater
+  events:               /events
+  event:                /node/284
 
 # (required) Screen widths (and optional height) to resize the browser to before taking the screenshot.
 screen_widths:
