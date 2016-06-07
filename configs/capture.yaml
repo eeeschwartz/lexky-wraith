@@ -24,9 +24,10 @@ domains:
 paths:
   homepage:             /
   top_level_cat:        /browse/government
-  department_directory: /departments
+  department_directory: /browse/government/departments
   department_page :     /departments/police
   second_level_cat:     /browse/government/council
+  council:              /council-district-1
   news:                 /news
   news_item:            /news/04-12-2016/city-to-collect-household-hazardous-waste
   search:               /search/node?keys=facilities
