@@ -1,4 +1,4 @@
-## anstallation
+## Installation
 
 ```
 brew install phantomjs
