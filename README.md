@@ -1,3 +1,5 @@
+# [Wraith](https://github.com/BBC-News/wraith) config for visual regression testing of www.lexingtonky.gov
+
 ## Installation
 
 ```
